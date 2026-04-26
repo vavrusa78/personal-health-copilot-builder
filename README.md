@@ -92,6 +92,10 @@ This repository is for tracking, summarization, and cautious interpretation. It 
 
 The repository is intentionally generic. OpenClaw-specific packaging lives in `openclaw-skill/` so the rest of the repository can stay usable for Codex, Claude Code, Claude CoWork, and similar environments.
 
+## Example flow
+
+See `docs/end-to-end-example-flow.md` for a small but complete v1 pattern.
+
 ## Publish checklist
 
 See `docs/publish-checklist.md`.

@@ -1,0 +1,17 @@
+{
+  "daily": {
+    "kcal_target": 2100,
+    "protein_g_target": 170,
+    "water_ml_target": 2500
+  },
+  "summary": {
+    "morning_enabled": true,
+    "evening_enabled": true,
+    "weekly_enabled": false
+  },
+  "units": {
+    "weight": "kg",
+    "energy": "kcal",
+    "distance": "km"
+  }
+}

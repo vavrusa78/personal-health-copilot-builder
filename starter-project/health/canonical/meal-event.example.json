@@ -1,0 +1,26 @@
+{
+  "id": "meal_2026-04-26_breakfast_01",
+  "event_type": "meal_event",
+  "timestamp": "2026-04-26T08:10:00+02:00",
+  "foods": [
+    {
+      "name": "Greek yogurt",
+      "amount": "250 g"
+    },
+    {
+      "name": "banana",
+      "amount": "1 piece"
+    }
+  ],
+  "nutrition": {
+    "kcal_estimate": 320,
+    "protein_g": 24,
+    "carbs_g": 39,
+    "fat_g": 7
+  },
+  "source": {
+    "kind": "manual_text",
+    "confidence": "estimated"
+  },
+  "notes": "Example canonical meal event."
+}

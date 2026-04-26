@@ -1,0 +1,15 @@
+project/
+  AGENTS.md
+  health/
+    raw/
+    canonical/
+    reports/
+    config/
+  meals/
+    logs/
+    reports/
+  scripts/
+  docs/
+    data-model.md
+    safety-boundaries.md
+    operating-model.md
